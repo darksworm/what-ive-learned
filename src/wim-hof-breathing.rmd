@@ -1,6 +1,7 @@
 ---
 title: Wim Hof breathing method
 author: Ilmars
+output: html_document
 ---
 
 ## The power breath
